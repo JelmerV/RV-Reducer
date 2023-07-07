@@ -1,0 +1,26 @@
+# required parts for the 3D-Printed RV-reducer
+
+## 3D-Printed parts
+
+- 1x "Base - Gear Housing.STL"
+- 1x "Base - Motor Mount.STL"
+- 1x "Base - Top Cap.STL"
+- 2x "Cycloidal Disk (2x).STL"
+- 1x "Input Gear.STL"
+- 1x "Output Housing-inner.STL"
+- 1x "Output Housing-outer.STL"
+- 1x "Shaft - Gear - Large 1.STL"
+- 1x "Shaft - Gear - Large 2.STL"
+- 1x "Shaft - Gear - Large 3.STL"
+- 1x "Shaft - Middle piece.STL"
+- 1x "Shaft - Top piece.STL"
+
+## Hardware
+
+- 6x M4x60 socket head screws
+- 8x M4x16 socket head screws
+- 3x M4 Lock-nuts
+- 11x M4 Threaded heat-set inserts
+- 2x Ball Bearing 6814
+- 6x Ball Bearing 6701
+- 6x Ball Bearing 6703
