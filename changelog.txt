@@ -1,0 +1,23 @@
+2023-07-23: V1.2
+
+* slightly larger cycloidal disk radius
+* spur gears ratio 2 now. teeth multiple of 3 for easy allignment
+* mounting flanges changed, overall thickness reduced.
+* added hole in middle for peeking
+* small spur gear larger flange, added d-shaft and screwhole
+* added sacrificial layers on some countersunk holes
+
+2023-07-14: V1.1
+
+* Increase "top cap" spacers length (.5mm clearance) 
+* Add cycloid disk clearence (0.1mm offset)
+* Increase flanges for large bearings (on "top cap", "gear housing", and "output assembly")
+* Change motor fixation recess for locating pins to improve printability of "gear housing"
+* add small chanmfers to bottom surface to avoid elephants foot
+* add threaded inserts in the assembly
+* Increase hole in motor mount such that the gear fits through
+
+
+2023-07-07: V1
+
+* initial version
